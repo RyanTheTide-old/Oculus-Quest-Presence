@@ -43,7 +43,7 @@ public class ConfigGUI {
 	}
 	
 	private void initialize() {
-		frame = new JFrame("Oculus Quest Discord RPC - v2.2");
+		frame = new JFrame("Oculus Quest Discord RPC - v2.2-RTT");
 		frame.setBounds(100, 100, 450, 155);
 		frame.getContentPane().setLayout(null);
 		frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);

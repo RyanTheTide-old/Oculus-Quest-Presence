@@ -1,6 +1,6 @@
 {
-  "latest": "2.2.0",
-  "url": "https://github.com/madmagic007/Oculus-Quest-Presence/raw/master/pc/out/artifacts/pc_jar/Oculus%20Quest%20Discord%20RPC.jar",
+  "latest": "2.2.0-RTT",
+  "url": "https://github.com/RyanTheTide/Oculus-Quest-Presence/raw/master/pc/out/artifacts/pc_jar/Oculus%20Quest%20Discord%20RPC.jar",
   "apkVersion": "1.0",
-  "apkUrl" : "https://github.com/madmagic007/Oculus-Quest-Presence/raw/master/android/oqrpc.apk"
+  "apkUrl" : "https://github.com/RyanTheTide/Oculus-Quest-Presence/raw/master/android/oqrpc.apk"
 }
