@@ -14,18 +14,18 @@ public class ResponseHandler {
         if (!response.has("message")) return;
         String message = response.getString("message");
 
-        if (message.equals("valid")) ConfigGUI.error.setText("device found and running apk. Ready to go!");
+        if (message.equals("valid")) ConfigGUI.error.setText("Quest found and configured. Have fun!");
         if (message.equals("started")) {
-            System.out.println("received device online message");
-            SystemTrayHandler.notif("Quest online", "Your Quest is online");
+            System.out.println("Quest Online");
+            SystemTrayHandler.notif("Quest Found", "Your Quest is Online");
             Discord.init();
             Timing.startRequester();
             Timing.startEnder();
         }
 
         if (message.equals("ended")) {
-            System.out.println("device offline");
-            SystemTrayHandler.notif("Quest offline", "RPC service on your Quest has stopped");
+            System.out.println("Quest Offline");
+            SystemTrayHandler.notif("Quest not Found", "Your computer has lost connection, try restarting your Quest");
             Discord.terminate();
             Timing.terminate();
         }
