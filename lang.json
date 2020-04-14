@@ -272,6 +272,10 @@
 		"details": "Currently Playing:",
 		"state": "Swarm - Closed Beta"
 	},
+	"com.oculus.xrstreamingclient": {
+		"details": "Playing PCVR",
+		"state": "Oculus Link"
+	},
 	"com.schellgames.ieytdquest": {
 		"details": "Currently Playing:",
 		"state": "I Expect You To Die"
