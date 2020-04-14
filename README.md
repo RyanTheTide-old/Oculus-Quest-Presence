@@ -2,7 +2,7 @@
 
 
 <p align="center">
-#	Discord Rich Presence for the Oculus Quest by <a href="https://github.com/madmagic007" target="_blank">madmagic007</a>
+	Discord Rich Presence for the Oculus Quest by <a href="https://github.com/madmagic007" target="_blank">madmagic007</a>
 </p>
 
 <p align="center">
