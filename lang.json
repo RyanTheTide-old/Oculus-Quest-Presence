@@ -277,7 +277,7 @@
 		"state": "Oculus Link"
 	},
 	"com.facebook.arvr.quillplayer": {
-		"details": "Currenly Playing:",
+		"details": "Currently Playing:",
 		"state": "Quill Theatre"
 	},
 	"com.oculus.MontereySetup": {
