@@ -9,7 +9,8 @@
 	},
 	"com.vankrupt.pavlov": {
 		"details": "Currently Playing:",
-		"state": "Pavlov VR: Shack"
+		"state": "Pavlov VR: Shack",
+		"key": "pavlov"
 	},
 	"aaa.QuestAppLauncher.App": {
 		"details": "Currently Playing:",
@@ -26,15 +27,18 @@
 	},
 	"com.owlchemylabs.jobsimulator": {
 		"details": "Currently Playing:",
-		"state": "Job Simulator"
+		"state": "Job Simulator",
+		"key": "jobsim"
 	},
 	"com.vrchat.oculus.quest": {
 		"details": "Currently Playing:",
-		"state": "VR Chat"
+		"state": "VR Chat",
+		"key": "vrchat"
 	},
 	"unity.SUPERHOT_Team.SUPERHOT_VR_QA": {
 		"details": "Currently Playing:",
-		"state": "SUPERHOT VR"
+		"state": "SUPERHOT VR",
+		"key": "superhot"
 	},
 	"games.b4t.epicrollercoasters.oculus": {
 		"details": "Currently Playing:",
@@ -66,7 +70,8 @@
 	},
 	"com.harmonixmusic.kata": {
 		"details": "Currently Playing:",
-		"state": "Audica"
+		"state": "Audica",
+		"key": "audica"
 	},
 	"com.crytek.climb": {
 		"details": "Currently Playing:",
@@ -82,7 +87,8 @@
 	},
 	"com.AgainstGravity.RecRoom": {
 		"details": "Currently Playing:",
-		"state": "Rec Room VR"
+		"state": "Rec Room VR",
+		"key": "recroom"
 	},
 	"com.google.tiltbrush": {
 		"details": "Currently Playing:",
@@ -106,15 +112,18 @@
 	},
 	"com.ILMxLAB.VaderImmortal.ep1": {
 		"details": "Currently Playing:",
-		"state": "Vader Immortal: Episode I"
+		"state": "Vader Immortal: Episode I",
+		"key": "vi1"
 	},
 	"com.ILMxLAB.VaderImmortal.ep2": {
 		"details": "Currently Playing",
-		"state": "Vader Immortal: Episode II"
+		"state": "Vader Immortal: Episode II",
+		"key": "vi2"
 	},
 	"com.ILMxLAB.VaderImmortal.ep3": {
 		"details": "Currently Playing:",
-		"state": "Vader Immortal: Episode III"
+		"state": "Vader Immortal: Episode III",
+		"key": "vi3"
 	},
 	"com.wolfandwood.exorcistlegionvr": {
 		"details": "Currently Playing:",
@@ -122,7 +131,8 @@
 	},
 	"com.vertigogames.azsq": {
 		"details": "Currently Playing:",
-		"state": "Arizona Sunshine"
+		"state": "Arizona Sunshine",
+		"key": "arisun"
 	},
 	"com.TriangleFactory.HyperDash": {
 		"details": "Currently Playing:",
@@ -290,7 +300,8 @@
 	},
 	"com.schellgames.ieytdquest": {
 		"details": "Currently Playing:",
-		"state": "I Expect You To Die"
+		"state": "I Expect You To Die",
+		"key": "ieytd"
 	},
 	"com.oculus.MontereyNUX": {
 		"details": "Currently Playing:",

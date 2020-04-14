@@ -12,7 +12,7 @@ public class Discord {
     public static void init() {
         rpc = DiscordRPC.INSTANCE;
 
-        rpc.Discord_Initialize("664525664946356230", new DiscordEventHandlers(), true, "");
+        rpc.Discord_Initialize("699644046045347923", new DiscordEventHandlers(), true, "");
         presence = new DiscordRichPresence();
 
         presence.details = "Just started playing";
