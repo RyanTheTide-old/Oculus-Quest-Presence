@@ -1,11 +1,13 @@
 {
 	"com.madmagic.oqrpc": {
 		"details": "Setting up presence",
-		"state": ""
+		"state": "",
+		"key": "quest"
 	},
 	"com.oculus.vrshell": {
 		"details": "In The Oasis",
-		"state": ""
+		"state": "",
+		"key": "oculus"
 	},
 	"com.vankrupt.pavlov": {
 		"details": "Currently Playing:",
@@ -58,7 +60,8 @@
 	},
 	"com.google.android.apps.youtube.vr.oculus": {
 		"details": "Watching Youtube",
-		"state": ""
+		"state": "",
+		"key": "yt"
 	},
 	"com.polygraphene.alvr": {
 		"details": "Playing PCVR",
@@ -92,7 +95,8 @@
 	},
 	"com.google.tiltbrush": {
 		"details": "Currently Playing:",
-		"state": "Tilt Brush"
+		"state": "Tilt Brush",
+		"key": "tilt"
 	},
 	"com.CaveManStudio.ContractorsVR": {
 		"details": "Currently Playing:",
@@ -148,7 +152,8 @@
 	},
 	"com.netflix.ninja.vr": {
 		"details": "Watching Netflix",
-		"state": ""
+		"state": "",
+		"key": "nflix"
 	},
 	"com.drbeef.quakequest": {
 		"details": "Currently Playing:",
@@ -160,7 +165,7 @@
 	},
 	"com.drbeef.lambda1vr": {
 		"details": "Currently Playing:",
-		"state": "Lamda1VR"
+		"state": "Lambda1VR"
 	},
 	"com.sumalab.CrisisVRigade": {
 		"details": "Currently Playing:",
@@ -168,7 +173,8 @@
 	},
 	"com.MyronSoftware.Deisim": {
 		"details": "Currently Playing:",
-		"state": "Deisim"
+		"state": "Deisim",
+		"key": "deisim"
 	},
 	"org.dammertz.vr.VoxelWorksQuest": {
 		"details": "Currently Playing:",
