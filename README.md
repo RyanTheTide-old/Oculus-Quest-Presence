@@ -1,8 +1,7 @@
 
 # Oculus-Quest-Presence
 
-###> Discord Rich Presence for the Oculus Quest
-###> by <a href="https://github.com/madmagic007" target="_blank">madmagic007</a>
+Discord Rich Presence for the Oculus Quest by <a href="https://github.com/madmagic007" target="_blank">madmagic007</a>
 
 <p align="center">
    <a href="https://discordapp.com/users/623410683689566208/">
