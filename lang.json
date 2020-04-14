@@ -271,5 +271,9 @@
 	"com.sketchbox.Grapple": {
 		"details": "Currently Playing:",
 		"state": "Swarm - Closed Beta"
+	},
+	"com.oculus.xrstreamingclient": {
+		"details": "Playing PCVR",
+		"state": "Oculus Link"
 	}
 }
