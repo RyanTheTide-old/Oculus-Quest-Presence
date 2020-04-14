@@ -325,7 +325,7 @@
 		"details": "Currently Playing:",
 		"state": "First Steps"
 	},
-	"com.Oculus.FirstContact":
+	"com.Oculus.FirstContact": {
 		"details": "Currently Playing:",
 		"state": "First Contact"
 	},
