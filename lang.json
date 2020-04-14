@@ -339,7 +339,7 @@
 	"com.nextvr.lunar": {
 		"details": "Watching Videos",
 		"state": "NextVR"
-	}
+	},
 	"com.altvr.AltspaceVR_Quest": {
 		"details": "Currently Playing,
 		"state": "AltspaceVR"
