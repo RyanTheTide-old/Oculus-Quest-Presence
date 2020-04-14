@@ -275,5 +275,17 @@
 	"com.oculus.xrstreamingclient": {
 		"details": "Playing PCVR",
 		"state": "Oculus Link"
+	},
+	"com.facebook.arvr.quillplayer": {
+		"details": "Currenly Playing:",
+		"state": "Quill Theatre"
+	},
+	"com.oculus.MontereySetup": {
+		"details": "Currently Playing:",
+		"state": "First Steps"
+	},
+	"com.Oculus.FirstContact": {
+		"details": "Currently Playing:",
+		"state": "First Contact"
 	}
 }
