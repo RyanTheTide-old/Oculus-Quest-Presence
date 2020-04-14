@@ -287,5 +287,65 @@
 	"com.Oculus.FirstContact": {
 		"details": "Currently Playing:",
 		"state": "First Contact"
+	},
+	"com.schellgames.ieytdquest": {
+		"details": "Currently Playing:",
+		"state": "I Expect You To Die"
+	},
+	"com.oculus.MontereyNUX": {
+		"details": "Currently Playing:",
+		"state": "Bogo"
+	},
+	"com.resolutiongames.baitsantacruz": {
+		"details": "Currently Playing:",
+		"state": "Bait!"
+	},
+	"gg.trs.grappa_demo": {
+		"details": "Currently Playing:",
+		"state": "Journey of the Gods: Demo"
+	},
+	"com.Armature.SportsScrambleDemo": {
+		"details": "Currently Playing:",
+		"state": "Sports Scramble: Demo"
+	},
+	"com.survios.CreedDemo": {
+		"details": "Currently Playing:",
+		"state": "Creed: Rise to Glory: Demo"
+	},
+	"unity.SUPERHOT_Team.SUPERHOT_VR_Demo": {
+		"details": "Currently Playing:",
+		"state": "SUPERHOT VR: Demo"
+	},
+	"com.iillusions.spacepiratetrainerdemo": {
+		"details": "Currently Playing:",
+		"state": "Space Pirate Trainer: Demo"
+	},
+	"com.beatgames.beatsaber.demo": {
+		"details": "Currently Playing:",
+		"state": "Beat Saber: Demo"
+	},
+	"com.HarmonixMusic.DCQuestDemoPreload": {
+		"details": "Currently Playing:",
+		"state": "Dance Central: Demo"
+	},
+	"com.normalvr.halfandhalf": {
+		"details": "Currently Playing:",
+		"state": "Half + Half"
+	},
+	"com.Magnopus.MissionISS": {
+		"details": "Currently Playing:",
+		"state": "Mission: ISS"
+	},
+	"com.nextvr.lunar": {
+		"details": "Watching Videos",
+		"state": "NextVR"
+	},
+	"com.altvr.AltspaceVR_Quest": {
+		"details": "Currently Playing:",
+		"state": "AltspaceVR"
+	},
+	"com.samsung.vrvideo": {
+		"details": "Watching Videos",
+		"state": "Samsung VR Videos"
 	}
 }
