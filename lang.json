@@ -11,7 +11,8 @@
 	},
 	"com.oculus.systemdriver": {
 		"details": "Peeking Through 👀",
-		"state": ""
+		"state": "Passthrough"
+		"key": "oculus"
 	},
 	"com.vankrupt.pavlov": {
 		"details": "Currently Playing:",
@@ -148,7 +149,8 @@
 	},
 	"com.weloveoculus.BMBF": {
 		"details": "Modding Beat Saber",
-		"state": ""
+		"state": "",
+		"key": "beatsaber"
 	},
 	"VirtualDesktop.Android": {
 		"details": "Playing PCVR",
@@ -343,7 +345,8 @@
 	},
 	"com.beatgames.beatsaber.demo": {
 		"details": "Currently Playing:",
-		"state": "Beat Saber: Demo"
+		"state": "Beat Saber: Demo",
+		"key": "beatsaber"
 	},
 	"com.HarmonixMusic.DCQuestDemoPreload": {
 		"details": "Currently Playing:",
