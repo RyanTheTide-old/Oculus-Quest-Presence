@@ -1,6 +1,10 @@
 {
   "latest": "2.3.0-RTT",
   "url": "https://raw.githubusercontent.com/RyanTheTide/Oculus-Quest-Presence/master/releases/win/Oculus%20Quest%20Discord%20RPC.jar",
+  "maclatest": "2.3.0-RTT",
+  "macurl": "https://raw.githubusercontent.com/RyanTheTide/Oculus-Quest-Presence/master/releases/mac/Oculus%20Quest%20Discord%20RPC.jar",
+  "lnxlatest": "2.3.0-RTT",
+  "lnxurl": "https://raw.githubusercontent.com/RyanTheTide/Oculus-Quest-Presence/master/releases/lnx/Oculus%20Quest%20Discord%20RPC.jar",
   "apkVersion": "1.0",
   "apkUrl" : "https://github.com/RyanTheTide/Oculus-Quest-Presence/raw/master/android/oqrpc.apk"
 }
