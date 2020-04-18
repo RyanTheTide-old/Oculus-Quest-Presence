@@ -5,8 +5,8 @@
 		"key": "quest"
 	},
 	"com.oculus.vrshell": {
-		"details": "In The Oasis",
-		"state": "",
+		"details": "",
+		"state": "In The Oasis",
 		"key": "oculus"
 	},
 	"com.oculus.systemdriver": {
