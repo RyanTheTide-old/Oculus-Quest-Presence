@@ -46,7 +46,7 @@ Video tutorial:
 <br/><br/>
 
 ### Files
-- Download the <a href="https://github.com/RyanTheTide/Oculus-Quest-Presence/releases" target="_blank">latest release</a> and unzip it.
+- Download the <a href="https://github.com/RyanTheTide/Oculus-Quest-Discord-Presence/releases" target="_blank">latest release</a> and unzip it.
 - Download and install <a href="https://sidequestvr.com/#/download" target="_blank">SideQuest</a> on your PC.
 - Download <a href="https://github.com/tverona1/QuestAppLauncher/releases" target="_blank">Quest app launcher</a>.
 
